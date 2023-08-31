@@ -1,2 +1,2 @@
-# file-host
+# File-host
 A File Hosting project.
