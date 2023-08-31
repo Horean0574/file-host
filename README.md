@@ -1,2 +1,2 @@
-# img-host
-An Image Hosting project.
+# file-host
+A File Hosting project.
